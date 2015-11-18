@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0-*",
+  "version": "1.0.0-rc1-final",
   "compilationOptions": {
     "warningsAsErrors": true,
     "keyFile": "../../tools/Key.snk"
@@ -10,11 +10,11 @@
     "url": "git://github.com/aspnet/staticfiles"
   },
   "dependencies": {
-    "Microsoft.AspNet.Http.Extensions": "1.0.0-*",
-    "Microsoft.AspNet.FileProviders.Abstractions": "1.0.0-*",
-    "Microsoft.AspNet.Hosting.Abstractions": "1.0.0-*",
-    "Microsoft.Extensions.Logging.Abstractions": "1.0.0-*",
-    "Microsoft.Extensions.WebEncoders": "1.0.0-*"
+    "Microsoft.AspNet.Http.Extensions": "1.0.0-rc1-final",
+    "Microsoft.AspNet.FileProviders.Abstractions": "1.0.0-rc1-final",
+    "Microsoft.AspNet.Hosting.Abstractions": "1.0.0-rc1-final",
+    "Microsoft.Extensions.Logging.Abstractions": "1.0.0-rc1-final",
+    "Microsoft.Extensions.WebEncoders": "1.0.0-rc1-final"
   },
   "frameworks": {
     "net451": {},
