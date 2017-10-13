@@ -30,6 +30,5 @@ project.lock.json
 /.vs/
 global.json
 
-korebuild-lock.txt
 *.g.targets
 
